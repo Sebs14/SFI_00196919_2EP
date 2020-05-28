@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\LuisAntonio\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\LuisAntonio\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_HugoApp.-478658829.00" t="ExcludeRecursive" />
+    <e p="C:\Users\LuisAntonio\Desktop\Repositorio Parcial\SFI_00196919_2EP\SourceCode\HugoApp" t="IncludeRecursive">
+      <e p="AdministradorForm.cs" t="Include" />
+      <e p="AdministradorForm.Designer.cs" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="CambiarContraseniaForm.cs" t="Include" />
+      <e p="CambiarContraseniaForm.Designer.cs" t="Include" />
+      <e p="Conexion.cs" t="Include" />
+      <e p="frmAdmin.resx" t="Include" />
+      <e p="frmCambiarContra.resx" t="Include" />
+      <e p="frmInicioSesion.resx" t="Include" />
+      <e p="frmUsuario.resx" t="Include" />
+      <e p="HugoApp.csproj" t="IncludeRecursive" />
+      <e p="HugoApp.sln" t="IncludeFlat" />
+      <e p="LogInForm.cs" t="Include" />
+      <e p="LogInForm.Designer.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="ProductoDAO.cs" t="Include" />
+      <e p="Products.cs" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="fondo1.png" t="Include" />
+        <e p="logoCortadoxd.jpg" t="Include" />
+      </e>
+      <e p="UserForm.cs" t="Include" />
+      <e p="UserForm.Designer.cs" t="Include" />
+      <e p="Usuario.cs" t="Include" />
+      <e p="UsuarioDAO.cs" t="Include" />
+    </e>
+  </component>
+</project>
